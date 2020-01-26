@@ -1,4 +1,4 @@
-# Projeckt-s
+# Database in C
 
 A simple student database utilizing:
 - Dynamic memory allocation (malloc)
